@@ -1,3 +1,3 @@
 -- [[ Made by NGUX ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/niggux/NGUX/main/main.lua"))()
+loadstring(game:HttpGet("https://ngux.vercel.app"))()
